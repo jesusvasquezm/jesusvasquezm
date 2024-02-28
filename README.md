@@ -1,18 +1,28 @@
-### Sobre mim 
+<img src="dev-Banner.gif" width="360px" align="right">
 
-### Formado em Ciência da Computação na LaSalle College em Montreal, Canadá, com experiência profissional no desenvolvimento de software em Java. Minha paixão pela tecnologia me levou a adquirir habilidades sólidas em várias áreas-chave, incluindo: Spring Boot, MySQL, Requisições de API com PostMan, Teste Unitários com Junit, o processo TDD e boas práticas com SOLID. Essas habilidades, adquiridas por meio de cursos de estudo, demonstram meu compromisso em manter-me atualizado com as melhores práticas do setor e minha capacidade de aplicar conhecimentos teóricos em cenários práticos. Além disso, meu histórico de adaptação em ambientes multiculturais, incluindo experiência no Peru, Brasil e Canadá, me proporcionou uma perspectiva cultural ampla e proficiência em vários idiomas.
 
-<!--
-**jesusvasquezm/jesusvasquezm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+# 😁 Bem vindo ao meu GitHub!
+  Formado em [Ciência da Computação](https://www.lasallecollege.com/business-and-technologies-school/dec-computer-science-courses-data-processing), sou desenvolvedor de software/web. Amo a tecnologia e a musculação. 
 
-Here are some ideas to get you started:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 📣 Comunicação em quatro idiomas
+  - 🖥 Sempre aprendendo sobre Back-end
+  - 👨‍🎓 Futuro aluno de Pós-Graduação
+
+<div style="display: inline_block"><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="60" height="60"/>&nbsp;
+  <a href="https://www.linkedin.com/in/jesusvasquezmedina/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="right"></a> 
+</div>
+
+ ##
+
+<div align = "left">
+<img height = "300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusvasquezm&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=jesusvasquezm&show_icons=true&show_icons=true&theme=tokyonight&count_private=true"/>
+</div>
+
