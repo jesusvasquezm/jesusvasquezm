@@ -8,7 +8,7 @@
   
 
   - 📣 Comunicação em quatro idiomas
-  - 🖥 Sempre aprendendo sobre Back-end
+  - 🖥 Front end e Back end
   - 👨‍🎓 Futuro aluno de Pós-Graduação
 
 <div style="display: inline_block"><br>
