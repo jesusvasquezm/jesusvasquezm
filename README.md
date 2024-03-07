@@ -4,7 +4,8 @@
  
 # 😁 Bem vindo ao meu GitHub!
   Formado em [Ciência da Computação](https://www.lasallecollege.com/business-and-technologies-school/dec-computer-science-courses-data-processing), sou desenvolvedor de software/web. Amo a tecnologia e a musculação. 
-
+  
+<p>Para ver meu cv basta cliquar aqui --> <a href="https://curriculo-vitae-ten.vercel.app/">CV</a></p>
   
 
   - 📣 Comunicação em quatro idiomas
